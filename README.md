@@ -21,3 +21,8 @@
 	
 	
 	See if you can complete one or more of the exercises. 
+	
+	
+	
+	Video on how to set up an Eclipse project: https://github.com/Nmuta/java_sandbox/blob/master/JavaProjectSetup.mov
+	
