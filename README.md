@@ -15,7 +15,7 @@
 	
 	```
 	
-	Stretch:  Clone the Cracking the Coding Interview Eclipse project:
+	Stretch:  Clone my Test Driven Cracking the Coding Interview Eclipse project:
 	https://github.com/Nmuta/java_questions
 	
 	
